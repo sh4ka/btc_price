@@ -3,4 +3,6 @@
 .project
 .cproject
 .idea
+.settings
 .env
+*.o
